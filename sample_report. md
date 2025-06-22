@@ -1,7 +1,7 @@
 
 ---
 
-### 📜 `report_generator.py` (Python Script)
+### report_generator.py` (Python Script)
 
 ```python
 import pandas as pd
