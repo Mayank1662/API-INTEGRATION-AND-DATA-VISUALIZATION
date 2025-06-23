@@ -1,1 +1,26 @@
+[
+  {
+    "intent": "greeting",
+    "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+    "responses": ["Hello!", "Hi there!", "Hey! How can I help you?"]
+  },
+  {
+    "intent": "goodbye",
+    "patterns": ["bye", "see you", "goodbye", "catch you later"],
+    "responses": ["Goodbye!", "See you soon.", "Bye! Have a nice day."]
+  },
+  {
+    "intent": "thanks",
+    "patterns": ["thanks", "thank you", "thx"],
+    "responses": ["You're welcome!", "Glad to help.", "No problem!"]
+  },
+  {
+    "intent": "fallback",
+    "patterns": [],
+    "responses": [
+      "I'm not sure I understand. Could you rephrase?",
+      "Sorry, I didn't get that. Can you ask differently?"
+    ]
+  }
+]
 
